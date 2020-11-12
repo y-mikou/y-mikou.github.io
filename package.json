@@ -8,8 +8,7 @@
   },
   "scripts": {
     "dev": "vuepress dev src",
-    "build": "vuepress build src",
-    "deploy": "push-dir --dir=./src/.vuepress/dist --branch=main --cleanup"
+    "build": "vuepress build src"
   },
   "name": "monostation",
   "version": "1.0.0",
