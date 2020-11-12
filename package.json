@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "push-dir": "^0.4.1",
+    "semver": "^7.3.2"
+  },
+  "devDependencies": {
+    "vuepress": "^1.7.1"
+  },
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src",
+    "deploy": "push-dir --dir=./src/.vuepress/dist --branch=pub --cleanup"
+  },
+  "name": "monostation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
