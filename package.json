@@ -9,7 +9,7 @@
   "scripts": {
     "dev": "vuepress dev src",
     "build": "vuepress build src",
-    "deploy": "push-dir --dir=./src/.vuepress/dist --branch=pub --cleanup"
+    "deploy": "push-dir --dir=./src/.vuepress/dist --branch=main --cleanup"
   },
   "name": "monostation",
   "version": "1.0.0",
