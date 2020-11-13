@@ -5,6 +5,6 @@ meta:
     content: すごい説明
 ---
 ## 書いたSS
- [LiteraryWorks](/LiteraryWorks/index.html "書いたSSとか")
+ [赤龍亭にて](/LiteraryWorks/赤龍亭にて.html "赤龍亭にて")
 
 
