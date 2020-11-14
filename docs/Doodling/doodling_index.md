@@ -1,7 +1,10 @@
 ---
-title: Doodling
+title: ✎Doodling
 meta:
-  - name: Doodling
-    content: らくがき
+  - name: ✎Doodling
+    content: ✎主にリグルくんです
 ---
- [doodling_001](/Doodling/doodling_001.html "doodling_001")
+#001
+##なにか絵
+#002
+#003

@@ -4,4 +4,9 @@ meta:
   - name: Literary
     content: ほぼ東方projectを題材にしたSSです
 ---
- [TohoSS_001](/Literary/TohoSS_001/TohoSS_001.html "TohoSS_001")
+# 001
+## [赤龍亭にて](/赤龍亭にて.html "赤龍亭にて")
+# 002
+# 003
+# 004
+# 005
