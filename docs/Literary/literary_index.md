@@ -1,7 +1,7 @@
 ---
-title: Literary
-meta:
-  - name: Literary
+title: 📖Literary
+meta:📖Literary
+  - name: 📖Literary
     content: ほぼ東方projectを題材にしたSSです
 ---
 # 001
