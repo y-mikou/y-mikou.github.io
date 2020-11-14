@@ -1,9 +1,11 @@
 module.exports = {
-    title: "あれ",
+    title: "MonologueStation",
     themeConfig: {
-      description: "ディスクリプション",
+      description: "アレサイト",
       nav: [
-        { text: "Home", link: "/" } // ここはnav barのメニュー表示/aboutページは後ほど
+        { text: "Home", link: "/" },
+        { text: "twitter", link: "https://twitter.com/y_mikou" },
+        { text: "pixiv", link: "https://www.pixiv.net/users/101579" } 
       ]
     }
   };
