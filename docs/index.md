@@ -1,10 +1,8 @@
 ---
-title: すごいドキュメント
+title: 🏠
 meta:
-  - name: description
-    content: すごい説明
+  - name: 🏠
+    content: 🏠
 ---
-## 書いたSS
- [LiteraryWorks](/LiteraryWorks/index.html "書いたSSとか")
-
-
+[Literary](/Literary/literary_index.html "書いたSSとか")
+[Doodling](/Doodling/index.html "書いたSSとか")
