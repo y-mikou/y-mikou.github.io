@@ -3,6 +3,7 @@ title: 🏠HOME
 meta:
   - name: 🏠HOME
     content: 入り口。
+sidebar: false
 ---
 # [📖Literary](/Literary/literary_index.html "書いたSSとか")
 東方project関連のSSとかです。<br>
