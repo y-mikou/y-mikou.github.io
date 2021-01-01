@@ -6,7 +6,13 @@ meta:
 ---
 閉鎖済の東方エロSS投稿サイト「東方夜伽話」に投稿してあったSSのサルベージ品です。
 
-## 005
+一部投稿当時のコメントが付属しています。
+
+もし感想があれば、
+https://twitter.com/y_mikou
+に一言もらえると今後の意欲になります。
+
+## 013
 
 [世界閉じる場所で](0115_世界閉じる場所で.html "世界閉じる場所で")
 
@@ -124,7 +130,7 @@ meta:
 
 [せみのしたい](0065_せみのしたい.html "せみのしたい")
 
-[Night of Might](0064_Night of Might.html "Night of Might")
+[Night_of_Might](0064_Night_of_Might.html "Night_of_Might")
 
 [ロマンスは刀の輝き](0063_ロマンスは刀の輝き.html "ロマンスは刀の輝き")
 
@@ -134,13 +140,13 @@ meta:
 
 ## 006
 
-[4get me not not not but](0060_4get me not not not but.html "4get me not not not but")
+[4get_me_not_not_not_but](0060_4get_me_not_not_not_but.html "4get me not not not but")
 
 [愛憎倍増安全ゾォン](0059_愛憎倍増安全ゾォン.html "愛憎倍増安全ゾォン")
 
-[far, from](0058_far, from.html "far, from")
+[far,from](0058_far,from.html "far,from")
 
-[snow dAnce](0057_snow dAnce.html "snow dAnce")
+[snow_dAnce](0057_snow_dAnce.html "snow_dAnce")
 
 [空耳ミミック](0056_空耳ミミック.html "空耳ミミック")
 
@@ -152,11 +158,11 @@ meta:
 
 [Tris-passion-ARM](0052_Tris-passion-ARM.html "Tris-passion-ARM")
 
-[He Hugged Bug on Bed.](0051_He Hugged Bug on Bed..html "He Hugged Bug on Bed.")
+[He_Hugged_Bug_on_Bed.](0051_He_Hugged_Bug_on_Bed..html "He_Hugged_Bug_on_Bed.")
 
 ## 005
 
-[LOnely sparrow sings her REgret in a LEY in N.Y.](0050_LOnely sparrow sings her REgret in a LEY in N.Y..html "LOnely sparrow sings her REgret in a LEY in N.Y.")
+[LOnely_sparrow_sings_her_REgret_in_a_LEY_in_N.Y.](0050_LOnely_sparrow_sings_her_REgret_in_a_LEY_in_N.Y..html "LOnely_sparrow_sings_her_REgret_in_a_LEY_in_N.Y.")
 
 [愛を得たえた二人がひにんする話](0049_愛を得たえた二人がひにんする話.html "愛を得たえた二人がひにんする話")
 
@@ -202,11 +208,11 @@ meta:
 
 [わ。君、この恋は無し……](0030_わ。君、この恋は無し…….html "わ。君、この恋は無し……")
 
-[Sheathe of Deaths冗長版](0029_Sheathe of Deaths冗長版.html "Sheathe of Deaths冗長版")
+[Sheathe_of_Deaths冗長版](0029_Sheathe_of_Deaths冗長版.html "Sheathe_of_Deaths冗長版")
 
 [なん-せん-ス](0028_なん-せん-ス.html "なん-せん-ス")
 
-[Corsluv_tion](0027_Corsluv_tion.html "Corsluv_tion")
+[Cor_luv_tion](0027_Cor_luv_tion.html "Cor_luv_tion")
 
 [幻想散華④](0026_幻想散華④.html "幻想散華④")
 
@@ -216,7 +222,7 @@ meta:
 
 [れ-fuse](0023_れ-fuse.html "れ-fuse")
 
-[Two in One](0022_Two in One.html "Two in One")
+[Two_in_One](0022_Two_in_One.html "Two_in_One")
 
 [わかれはかれはわかばへかわれ](0021_わかれはかれはわかばへかわれ.html "わかれはかれはわかばへかわれ")
 
@@ -226,7 +232,7 @@ meta:
 
 [空虚文筆](0019_空虚文筆.html "空虚文筆")
 
-[amorphous　amor](0018_amorphous　amor.html "amorphous　amor")
+[amorphous_amor](0018_amorphous_amor.html "amorphous_amor")
 
 [そのそのはそとのその](0017_そのそのはそとのその.html "そのそのはそとのその")
 
