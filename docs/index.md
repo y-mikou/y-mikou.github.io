@@ -11,4 +11,5 @@ sidebar: false
 
 # [🖍Doodling](/Doodling/doodling_index.html "描いた落書きとか")
 なんか落書きとかです。<br>
-主にリグルくん。
+まだなにもない。<br>
+~~主にリグルくん。~~
