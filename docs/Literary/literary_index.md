@@ -8,6 +8,9 @@ meta:
 
 一部投稿当時のコメントが付属しています。
 
+現在.txtから.md(.html)として見やすく整形できていません。
+順次整形していきます(努力目標)。
+
 もし感想があれば、
 [https://twitter.com/y_mikou](https://twitter.com/y_mikou "https://twitter.com/y_mikou")
 に一言もらえると今後の意欲になります。
