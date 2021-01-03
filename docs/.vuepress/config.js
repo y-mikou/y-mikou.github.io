@@ -12,5 +12,9 @@ module.exports = {
       ],
       sidebar: 'auto',
       sidebarDepth: 2
+    },
+    themeConfig: {
+      search: false,
+      searchMaxSuggestions: 10
     }
   };
