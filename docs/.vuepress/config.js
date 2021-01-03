@@ -11,6 +11,6 @@ module.exports = {
         { text: "🎨pixiv", link: "https://www.pixiv.net/users/101579" } 
       ],
       sidebar: 'auto',
-      sidebarDepth: 1
+      sidebarDepth: 2
     }
   };
