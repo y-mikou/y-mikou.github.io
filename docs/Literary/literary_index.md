@@ -28,7 +28,7 @@ meta:
 | No  |  Title  |  Details  | PostDate | ModDate | Memo |
 | --- | ------- | ------- | ---------- | ------- | ---- |
 | 112 | [distAnce②](0112_distAnce②.html "distAnce②") | チルノ,リグル | 2020/11/11 | 2021/01/05 | htmlとして整形 |
-| 111 | [distAnce①](0111_distAnce①.html "distAnce①") | チルノ,文 | 2020/06/09 | 2021/01/05 | htmlとして |
+| 111 | [distAnce①](0111_distAnce①.html "distAnce①") | チルノ,文 | 2020/06/09 | 2021/01/05 | htmlとして整形 |
 
 ## 012:ルミナス世界と日出ずる国の革命布告
 
