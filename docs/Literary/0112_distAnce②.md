@@ -1,3 +1,8 @@
+---
+title: distAnce②
+sidebar: auto
+---
+
 <div class="info">
 「distAnce②」</br>
 作者:みこう悠長</br>

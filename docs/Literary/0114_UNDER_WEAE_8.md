@@ -1,3 +1,8 @@
+---
+title: UNDER_WEAE_8
+sidebar: auto
+---
+
 <div class="info">
 「UNDER_WEAE_8」</br>
 作者:みこう悠長</br>
