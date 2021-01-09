@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "commentbox.io": "^2.0.0",
     "push-dir": "^0.4.1",
     "semver": "^7.3.2",
     "vue-disqus": "^4.0.1",

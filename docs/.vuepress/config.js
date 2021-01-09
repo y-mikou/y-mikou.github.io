@@ -1,3 +1,4 @@
+import commentBox from 'commentbox.io';
 module.exports = {
     title: "MonologueStation",
     themeConfig: {
@@ -12,4 +13,6 @@ module.exports = {
       ],
       sidebar: 'auto'
     }
+    ['script', { src: 'https://unpkg.com/commentbox.io/dist/commentBox.min.js' }]
   };
+  commentBox('5713318824116224-proj');
