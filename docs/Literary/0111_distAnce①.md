@@ -833,3 +833,10 @@ sidebar: auto
 <summary>夜伽現存当時のコメント</summary>
 コメントなし
 </details>
+
+<hr>
+
+## お手紙ちょーだいっ
+> コメントは承認されるまで反映されません
+
+<staticcomments/>
