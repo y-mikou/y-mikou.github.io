@@ -12,5 +12,4 @@ module.exports = {
       ],
       sidebar: 'auto'
     }
-    ['script', { src: 'https://unpkg.com/commentbox.io/dist/commentBox.min.js' }]
   };
