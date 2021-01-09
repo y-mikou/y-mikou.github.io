@@ -1,4 +1,3 @@
-const { default: VueDisqus } = require("vue-disqus");
 module.exports = {
     title: "MonologueStation",
     themeConfig: {
