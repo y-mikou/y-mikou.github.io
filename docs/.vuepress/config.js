@@ -3,7 +3,7 @@ module.exports = {
     themeConfig: {
       description: "受信不能電波局-Monologuestation-",
       nav: [
-        { text: "🏠Home", link: "/" },
+        { text: "🏠Home", link: "/index2/" },
         { text: "📖Literary", link: "/Literary/literary_index.html" },
         { text: "🖍Doodling", link: "/Doodling/doodling_index.html" },
         { text: "🐤twitter", link: "https://twitter.com/y_mikou" },
