@@ -2,14 +2,14 @@
 home: true
 # heroImage: /logo.png
 description: '当サイトは18歳未満の閲覧を禁止しています'
-actionText: 受信不能電波局-Monologuestation-
+actionText: ＞Enter＜
 actionLink: /index2/
 features:
   - title: 📖Literary 文
-    details: 東方project関連のSS
+    details: 主に東方project関連のSS。今は旧「東方夜伽話」に投稿してあった拙作の避難所になっています。
   - title: 🖍Doodling 絵
-    details: なんか落書きとか
+    details: なんか落書きとか。まだ何もありません。余力ができたらそのうち増えるかな。
   - title: ❓:UnderConstruction 工事中
-    details: 予定は未定
+    details: まだ何を置くか決めていませんがなにか増える……はず。
 footer: © 受信不能電波局-Monologuestation-
 ---

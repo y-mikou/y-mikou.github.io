@@ -1,7 +1,7 @@
 module.exports = {
-    title: "MonologueStation",
+    title: "受信不能電波局-Monologuestation-",
     themeConfig: {
-      description: "MonologueStation",
+      description: "受信不能電波局-Monologuestation-",
       nav: [
         { text: "🏠Home", link: "/" },
         { text: "📖Literary", link: "/Literary/literary_index.html" },
