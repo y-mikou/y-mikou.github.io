@@ -1,5 +1,5 @@
 module.exports = {
-    title: "受信不能電波局</br>-Monologuestation-",
+    title: "受信不能電波局",
     themeConfig: {
       description: "受信不能電波局-Monologuestation-",
       nav: [

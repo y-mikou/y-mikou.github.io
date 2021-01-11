@@ -5,11 +5,11 @@ description: '当サイトは18歳未満の閲覧を禁止しています'
 actionText: Enter
 actionLink: /index2/
 features:
-  - title: 📖Literary 文
+  - title: 📖Literary/文とか
     details: 主に東方project関連のSS。今は旧「東方夜伽話」に投稿してあった拙作の避難所になっています。
-  - title: 🖍Doodling 絵
+  - title: 🖍Doodling/落書き
     details: なんか落書きとか。まだ何もありません。余力ができたらそのうち増えるかな。
-  - title: ❓:UnderConstruction 工事中
+  - title: ❓:UnderConstruction/工事中
     details: まだ何を置くか決めていませんがなにか増える……はず。
 footer: © 受信不能電波局-Monologuestation-
 ---
