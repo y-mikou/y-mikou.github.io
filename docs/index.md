@@ -2,7 +2,7 @@
 home: true
 # heroImage: /logo.png
 description: '当サイトは18歳未満の閲覧を禁止しています'
-actionText: ＞Enter＜
+actionText: Enter
 actionLink: /index2/
 features:
   - title: 📖Literary 文
