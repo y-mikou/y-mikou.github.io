@@ -1,7 +1,7 @@
 ---
 home: true
 # heroImage: /logo.png
-description: '当サイトは18歳未満の閲覧を禁止しています',
+description: '当サイトは18歳未満の閲覧を禁止しています'
 actionText: 受信不能電波局-Monologuestation-
 actionLink: /index2/
 features:
