@@ -11,5 +11,5 @@ features:
     details: なんか落書きとか。まだ何もありません。余力ができたらそのうち増えるかな。
   - title: ❓:UnderConstruction
     details: まだ何を置くか決めていませんがなにか増える……はず。
-footer: © 受信不能電波局-Monologuestation-
+footer: Author みこう悠長
 ---
