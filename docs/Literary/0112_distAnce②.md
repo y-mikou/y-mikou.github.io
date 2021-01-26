@@ -8,6 +8,9 @@ sidebar: auto
 作者:みこう悠長</br>
 投稿日時:20201111 0311</br>
 </div>
+</br>
+</br>
+</br>
 <hr>
 
 <div class="content">
