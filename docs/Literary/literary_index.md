@@ -4,7 +4,9 @@ meta:
   - name: 📖Literary
     content: ほぼ東方projectを題材にしたSSです
 ---
-閉鎖済の東方エロSS投稿サイト「東方夜伽話」に投稿してあったSSのサルベージ品です。
+::: tip 
+継続中の作品に加えて</br>
+閉鎖済の東方エロSS投稿サイト「東方夜伽話」に投稿してあったSSのサルベージ品もおいてあります。
 
 一部投稿当時のコメントが付属しています。
 
@@ -18,6 +20,7 @@ meta:
 もし感想があれば、
 [https://twitter.com/y_mikou](https://twitter.com/y_mikou "https://twitter.com/y_mikou")
 に一言もらえると今後の意欲になります。
+:::
 
 ## 継続中
 ### 016:distAnce
