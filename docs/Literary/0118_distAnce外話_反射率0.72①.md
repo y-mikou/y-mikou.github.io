@@ -5,7 +5,7 @@ sidebar: auto
 <div class="info">
 distAnce外話_反射率0.72①</br>
 作者:みこう悠長</br>
-投稿日時:2021 0201 0230
+投稿日時:2021 0201 0500
 </div>
 <hr>
 </br>
