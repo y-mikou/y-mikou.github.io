@@ -14,30 +14,27 @@ $wrapper
 .theme-default-content:not(.custom)
   max-width 100%
 
-div.content
-  max-width 65%
-  margin: 0 auto;
-  padding: 2rem 2.5rem;
+div
+  content
+    max-width 65%
+    margin: 0 auto;
+    padding: 2rem 2.5rem;
 
-div.content > h2
-  text-align: center
+  content > h2
+    text-align: center
 
-div.content > h3
-  text-align: center
+  content > h3
+    text-align: center
 
-p.dc::first-letter{
-  line-height: 1;
-  font-size: 3em;
-  float: left;
-}
-
-p{
+p
   text-align: justify;
   text-justify: auto;
-}
 
-p.dia{
-  text-align: justify;
-  text-justify: auto;
-  margin-left -1em;
-}
+  dc::first-letter
+    line-height: 1;
+    font-size: 3em;
+    float: left;
+
+  dia
+    margin-left -1em;
+    margin-bottom:  -1em;
