@@ -14,27 +14,28 @@ $wrapper
 .theme-default-content:not(.custom)
   max-width 100%
 
-div
-  content
+div.content
     max-width 60%
     margin: 0 auto
     padding: 2rem 2.5rem
 
-  content > h2
+div.content > h2
     text-align: center
 
-  content > h3
+div.content > h3
     text-align: center
 
 p
   text-align: justify
   text-justify: auto
 
-  dc::first-letter
-    line-height: 1
-    font-size: 3em
-    float: left
+p.dc::first-letter
+  line-height: 1
+  font-size: 3em
+  float: left
 
-  dia
-    display: inline-block
-    text-indent: -1em
+p.dia
+  text-align: justify
+  text-justify: auto
+  display: inline-block
+  text-indent: -1em
