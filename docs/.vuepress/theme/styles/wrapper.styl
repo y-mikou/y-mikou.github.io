@@ -2,19 +2,21 @@ $wrapper
   max-width $contentWidth
   margin 0 auto
   padding 2rem 2.5rem
+
+  div.content
+    max-width 60%
+    padding: 2rem 2.5rem
+
+
   @media (max-width: $MQNarrow)
     padding 2rem
+
   @media (max-width: $MQMobileNarrow)
     padding 1.5rem
 
-//$contentWidth ?= 1200px
-.theme-default-content:not(.custom)
-  max-width 100%
 
-div.content
-    max-width 60%
-    margin: 0 auto
-    padding: 2rem 2.5rem
+.theme-default-content:not(.custom)
+    max-width 100%
 
 div.content > h2
     text-align: center
@@ -26,6 +28,7 @@ p
   text-align: justify
   text-justify: auto
 
+/*
 p.dc::first-letter
   line-height: 1
   font-size: 3em
@@ -36,6 +39,7 @@ p.dia
   text-justify: auto
   display: inline-block
   text-indent: -1em
+*/
 
 span.emphasis
   text-emphasis:filled dot
