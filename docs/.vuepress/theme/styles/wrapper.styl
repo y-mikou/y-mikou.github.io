@@ -1,12 +1,7 @@
 $wrapper
   max-width $contentWidth
-
   margin 0 auto
   padding 2rem 2.5rem
-
-  div.content
-    max-width 60%
-    padding: 2rem 2.5rem
 
   @media (max-width: $MQNarrow)
     padding 2rem
@@ -15,31 +10,41 @@ $wrapper
     padding 1.5rem
 
 
-.theme-default-content:not(.custom)
-    max-width 100%
+.theme-default-content:not(.custom){
+    max-width 100%;
+}
 
-div.content > h2
-    text-align: center
+div.content{
+  max-width 60%;
+  padding: 2rem 2.5rem;
+}
 
-div.content > h3
-    text-align: center
+div.content > h2{
+    text-align: center;
+}
 
-p
-  text-align: justify
-  text-justify: auto
+div.content > h3{
+    text-align: center;
+}
 
-/*
-p.dc::first-letter
-  line-height: 1
-  font-size: 3em
-  float: left
+p{
+  text-align: justify;
+  text-justify: auto;
+}
 
-p.dia
-  text-align: justify
-  text-justify: auto
-  display: inline-block
-  text-indent: -1em
-*/
+p.dc::first-letter{
+  line-height: 1;
+  font-size: 3em;
+  float: left;
+}
 
-span.emphasis
-  text-emphasis:filled dot
+p.dia{
+  text-align: justify;
+  text-justify: auto;
+  display: inline-block;
+  text-indent: -1em;
+}
+
+span.emphasis{
+  text-emphasis:filled dot;
+}
