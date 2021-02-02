@@ -4,6 +4,9 @@ meta:
   - name: 🏠HOME
     content: 入り口。
 sidebar: false
+home: true
+description: ' '
+footer: Author みこう悠長
 ---
 # [📖Literary](/Literary/literary_index.html "書いたSSとか")
 東方project関連のSSとかです。<br>
@@ -13,3 +16,7 @@ sidebar: false
 なんか落書きとかです。<br>
 まだなにもない。<br>
 ~~主にリグルくん。~~
+
+::: tip 更新履歴
+- 20210203:HOMEを更新、少しだけレスポンシブ対応
+:::
