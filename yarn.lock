@@ -1027,7 +1027,7 @@
   optionalDependencies:
     prettier "^1.18.2"
 
-"@vuepress/core@1.8.0":
+"@vuepress/core@1.8.0", "@vuepress/core@^1.0.0":
   version "1.8.0"
   resolved "https://registry.yarnpkg.com/@vuepress/core/-/core-1.8.0.tgz#b5450cdd33d7fc1e1d21a1590806d429c92d0dc9"
   integrity sha512-DrHx3gXa5rUDdvjcUHhmZg1DccMwc3kiYpgtbKCuJpHksz9eAVuOxbcy/b6TGRbbY4Q5EA2Fs3kI9hvPjYdCrQ==
@@ -1153,7 +1153,7 @@
     toml "^3.0.0"
     upath "^1.1.0"
 
-"@vuepress/theme-default@1.8.0":
+"@vuepress/theme-default@1.8.0", "@vuepress/theme-default@^1.0.0":
   version "1.8.0"
   resolved "https://registry.yarnpkg.com/@vuepress/theme-default/-/theme-default-1.8.0.tgz#5bcca542bc61099498f5d99a9928f0ff66e6e382"
   integrity sha512-CueCaANfICFbLnEL78YxSjgCHXL7mkgQI/cfyEHBgxlr247cYJQ+9IFDQIS0fJNuzHdLRy9UFUvVrCu6go8PUg==
@@ -1916,7 +1916,7 @@ bytes@3.1.0:
   resolved "https://registry.yarnpkg.com/bytes/-/bytes-3.1.0.tgz#f6cf7933a360e0588fa9fde85651cdc7f805d1f6"
   integrity sha512-zauLjrfCG+xvoyaqLoV8bLVXXNGC4JqlxFCutSDWA6fJrTo2ZuvLYTqZ7aHBLZSMOopbzwv8f+wZcVzfVTI2Dg==
 
-cac@^6.5.6:
+cac@^6.3.9, cac@^6.5.6:
   version "6.7.1"
   resolved "https://registry.yarnpkg.com/cac/-/cac-6.7.1.tgz#0609d28a31d887746de4b66a15e3914f106f880c"
   integrity sha512-LfGt47+ugCY65W4yUEyxnZKd/tJSBJD/gUAxQGiQjH7yqdhbaX2XN0Rli4+0W0DJiDONmYeh0TlJxMtXGZspIg==
@@ -7696,6 +7696,16 @@ vuepress-plugin-smooth-scroll@^0.0.3:
   integrity sha512-qsQkDftLVFLe8BiviIHaLV0Ea38YLZKKonDGsNQy1IE0wllFpFIEldWD8frWZtDFdx6b/O3KDMgVQ0qp5NjJCg==
   dependencies:
     smoothscroll-polyfill "^0.4.3"
+
+vuepress@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/vuepress/-/vuepress-1.0.0.tgz#9661318ecf62da55cda8249337d5722f912b48ec"
+  integrity sha512-H/2utjjkDFUP9av636RmiGHwRjQmYf+9LJ0S1Lbu5q+Dt5R6wgifbqBluaodUxNgeC0Q5nCLu/+Oig6PRaVs8Q==
+  dependencies:
+    "@vuepress/core" "^1.0.0"
+    "@vuepress/theme-default" "^1.0.0"
+    cac "^6.3.9"
+    envinfo "^7.2.0"
 
 vuepress@^1.8.0:
   version "1.8.0"
