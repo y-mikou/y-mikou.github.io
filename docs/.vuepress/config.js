@@ -10,7 +10,7 @@ module.exports = {
         { text: "🙇応援お願いします", link: "https://fantia.jp/fanclubs/7222" },
         { text: "🎨pixiv", link: "https://www.pixiv.net/users/101579" } 
       ],
-      sidebar: 'auto',
+      sidebar: "auto",
       plugins: [
         ['@vuepress/back-to-top'],
         ['@vuepress/last-updated'],
