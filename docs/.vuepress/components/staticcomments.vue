@@ -4,7 +4,7 @@
     <div class="col-md-12">
       <form action="https://api.staticforms.xyz/submit" method="post">
         <input type="hidden" name="accessKey" value="90a46b27-8d60-42f2-9d1e-05d34a595ca5">
-        <input type="hidden" name="subject" value="{{$frontmatter.title}} + 'へのコメント'">
+        <input type="hidden" name="subject" value="{{$page.frontmatter.title}}へのコメント">
         <input type="hidden" name="redirectTo" value="https://monologuestation.netlify.app/Literary/literary_index.html">
         <div class="form-group row">
           <label for="inputName" class="col-sm-4 col-form-label">お名前</label>
