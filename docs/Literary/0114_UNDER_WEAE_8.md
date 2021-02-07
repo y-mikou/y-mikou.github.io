@@ -2028,6 +2028,7 @@ sidebar: auto
 </br>
 
 <hr>
+## 後記・コメント
 <details>
 <summary>あとがき</summary>
 <p>
@@ -2047,6 +2048,6 @@ sidebar: auto
 <hr>
 
 ## お手紙ちょーだいっ
-> コメントは承認されるまで反映されません
-
+::: tip コメントは承認されるまで反映されません
 <staticcomments/>
+:::

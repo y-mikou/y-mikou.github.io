@@ -800,6 +800,7 @@ sidebar: auto
 </br>
 <hr>
 
+## 後記・コメント
 <details>
 <summary>あとがき</summary>
 【20200610】出典の記載に不足分を追加</br>
@@ -831,5 +832,6 @@ sidebar: auto
 <hr>
 
 ## お手紙ちょーだいっ
-> コメントは承認されるまで反映されません
+::: tip コメントは承認されるまで反映されません
 <staticcomments/>
+:::
