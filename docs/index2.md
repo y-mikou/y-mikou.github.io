@@ -24,4 +24,13 @@ footer: Author みこう悠長
 - 20210204:【📖Literary】「[花絡堕](/Literary/0067_花絡堕.md)」をhtml表示用に整形
 - 20210203:少しだけレスポンシブ対応(携帯で読みやすく)
 - 20210203:topに最終更新、homeに更新履歴を追加
+
+<details>
+
+<summary>もっと過去の</summary>
+
+いまはありません
+
+</details>
+&emsp;
 :::
