@@ -11,7 +11,8 @@ sidebar: auto
 </br>
 </br>
 </br>
-<hr>
+
+---
 
 <div class="content"></br>
 
@@ -2027,7 +2028,8 @@ sidebar: auto
 </br>
 </br>
 
-<hr>
+
+---
 ## 後記・コメント
 <details>
 <summary>あとがき</summary>
@@ -2041,13 +2043,22 @@ sidebar: auto
 </details>
 
 <details>
-<summary>夜伽現存当時のコメント</summary>
+<summary>コメント</summary>
+<details>
+<summary>東方夜伽話現存当時のコメント</summary>
 <p>コメントなし</p>
 </details>
+</details>
 
-<hr>
+---
 
-## お手紙ちょーだいっ
-::: tip コメントは承認されるまで反映されません
+::: tip おてがみちょーだいっ 
+
+コメントなど貰えるとと喜びます
+
+
+> コメントは承認されるまで反映されません
+
 <staticcomments/>
+
 :::

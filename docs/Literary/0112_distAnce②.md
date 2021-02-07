@@ -11,7 +11,8 @@ sidebar: auto
 </br>
 </br>
 </br>
-<hr>
+
+---
 
 <div class="content">
 
@@ -1044,7 +1045,8 @@ sidebar: auto
 
 </div>
 
-<hr>
+
+---
 
 ## 後記・コメント
 <details>
@@ -1053,7 +1055,9 @@ sidebar: auto
 
 </details>
 <details>
-<summary>夜伽現存当時のコメント</summary>
+<summary>コメント</summary>
+<details>
+<summary>東方夜伽話現存当時のコメント</summary>
 <p>
 【1.性欲を持て余す程度の能力[2020/11/15 23:37:24]】</br>
 色々と不明な点が多い……まだ連載も序盤だから仕方ないのかしら。チルノがエロさ極まっていることはとてもよくわかります。何人と関係を持つことになるでしょうか。</br>
@@ -1066,11 +1070,17 @@ sidebar: auto
 </p>
 
 </details>
+</details>
 
-<hr>
+---
 
-## お手紙ちょーだいっ
+::: tip おてがみちょーだいっ 
 
-::: tip コメントは承認されるまで反映されません
+コメントなど貰えるとと喜びます
+
+
+> コメントは承認されるまで反映されません
+
 <staticcomments/>
+
 :::
