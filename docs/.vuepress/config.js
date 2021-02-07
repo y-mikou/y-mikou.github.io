@@ -11,15 +11,10 @@ module.exports = {
         { text: "🎨pixiv", link: "https://www.pixiv.net/users/101579" } 
       ],
       sidebar: "auto",
-      plugins: [
-        ['@vuepress/back-to-top'],
-        ['@vuepress/last-updated'],
-        [
-          '@vuepress/google-analytics',
-          {
-            ga: 'G-XRTRYVLBCB', // 自身のトラッキングIDを設定
-          },
-        ]
-      ]
+      plugins: {
+        '@vuepress/google-analytics': {
+            'ga': 'G-XRTRYVLBCB'
+        }
+      },
     }
   };
