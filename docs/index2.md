@@ -18,6 +18,8 @@ footer: Author みこう悠長
 ~~主にリグルくん。~~
 
 ::: tip 更新履歴
+- 20210214:【📖Literary】「[せみのしたい](/Literary/0065_せみのしたい.md "せみのしたい")」をhtml表示用に整形
+- 20210214:【📖Literary】「[Night_of_Might](/Literary/0064_Night_of_Might.md "Night_of_Might")」をhtml表示用に整形
 - 20210207:コメント受付時、対象作品が取得不能になっていたのを修正(コンテンツに関係無)
 - 20210205:【📖Literary】「[椛催眠堕](/Literary/0066_椛催眠堕.md) 」をhtml表示用に整形
 - 20210205:当サイトのVuepressを1.8に(コンテンツに関係無)
