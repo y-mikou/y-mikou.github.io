@@ -14,7 +14,7 @@ features:
 footer: Author みこう悠長
 ---
 ::: tip 最終更新
-- 20210215:【📖Literary】「ロマンスは刀の輝き」をhtml表示用に整形
-- 20210215:【📖Literary】「ラストワードにアイラブユーを」をhtml表示用に整形
-- 20210215:【📖Literary】「未確認で幻在系」をhtml表示用に整形
+- 20210216:【📖Literary】「4get_me_not_not_not_but」をhtml表示用に整形
+- 20210216:【📖Literary】「愛憎倍増安全ゾォン」をhtml表示用に整形
+- 20210216:【📖Literary】「far,from」をhtml表示用に整形
 :::

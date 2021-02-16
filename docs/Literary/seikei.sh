@@ -13,8 +13,8 @@ sed -i -z 's/<div class="info">\n\+\([^\n]\+\)\n\+\([^\n]\+\)\n\+\([^\n]\+\)\n\+
                                                                                                 #info内整形
 sed -i -z 's/\([」）]\)<\/br>\n&emsp;/\1<\/br>\n\n\&emsp;/g' $destFile                          #」か）で改行して全角スペースとなる境界に空行を挿入する
 sed -i -z 's/\([^」）]<\/br>\)\n\([「（]\)/\1\n\n\2/g' $destFile                                #」でも）でもない文字で改行し「で始まる行との境界に空行を挿入する
-sed -i -z 's/[^\n]\n\(――[^\n]\+\)\n/\n\n\1\n/g' $destFile                                       #―で始まる行の前に空行を挿入する
-sed -i -z 's/^\(――[^<\/br>\n]+\)\n\+\([「（]\)/\1<\/br>\n\2/g' $destFile                        #―で始まる行の前が」か）だった場合、空行を削除する
+sed -i -z 's/[^\n]\n\(—\+[^\n]\+\)\n/\n\n\1\n/g' $destFile                                      #―で始まる行の前に空行を挿入する
+sed -i -z 's/^\(—\+[^<\/br>\n]+\)\n\+\([「（]\)/\1<\/br>\n\2/g' $destFile                       #―で始まる行の前が」か）だった場合、空行を削除する
 sed -i -z 's/<div class=\"afterword\">/\n<\/br>\n<\/br>\n<\/br>\n\n---\n\n\#\# 後記・コメント\n<details>\n<summary>あとがき<\/summary>/g' $destFile
                                                                                                 #後記・コメント領域の整形
 sed -i -z 's/【\([0-9]\)/\n【\1/g' $destFile                                                    #コメントを一人毎に空行挿入する
@@ -35,3 +35,5 @@ sed -i -z 's/<div class=\"info\">\n\+\([^\n]\+\)<\/br>/---\ntitle: \1\nsidebar: 
                                                                                                 #ymlヘッダを付与
 sed -i -z 's/<\/summary>\n<\/br>\n\+<\/br>/<\/summary>\n/g' $destFile                           #</summary>のあとに無用な改行がある場合削除
 sed -i -z 's/\(<\/br>\)\+/<\/br>/g' $destFile                                                   #</br>タグが改行を挟まず連続している場合、一つに集約
+sed -i -z 's/\(title: [^<]\+\)<\/br>/\1/g' $destFile                                            #タイトル末尾に</br>タグがどっかでついてしまっているので除去
+sed -i -z 's/\([！？]\)\([^　！？」）—<]\)/\1　\2/g' $destFile                                            #タイトル末尾に</br>タグがどっかでついてしまっているので除去

@@ -18,6 +18,9 @@ footer: Author みこう悠長
 ~~主にリグルくん。~~
 
 ::: tip 更新履歴
+- 20210216:【📖Literary】「[4get_me_not_not_not_but](/Literary/0060_4get_me_not_not_not_but.md "4get_me_not_not_not_but")」をhtml表示用に整形
+- 20210216:【📖Literary】「[愛憎倍増安全ゾォン](/Literary/0059_愛憎倍増安全ゾォン.md "愛憎倍増安全ゾォン")」をhtml表示用に整形
+- 20210216:【📖Literary】「[far,from](/Literary/0058_far,from.md "far,from")」をhtml表示用に整形
 - 20210215:【📖Literary】「[ロマンスは刀の輝き](/Literary/0063_ロマンスは刀の輝き.md "ロマンスは刀の輝き")」をhtml表示用に整形
 - 20210215:【📖Literary】「[ラストワードにアイラブユーを](/Literary/0062_ラストワードにアイラブユーを.md "ラストワードにアイラブユーを")」をhtml表示用に整形
 - 20210215:【📖Literary】「[未確認で幻在系](/Literary/0061_未確認で幻在系.md "未確認で幻在系")」をhtml表示用に整形
