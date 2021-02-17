@@ -14,7 +14,9 @@ features:
 footer: Author みこう悠長
 ---
 ::: tip 最終更新
-- 20210216:【📖Literary】「4get_me_not_not_not_but」をhtml表示用に整形
-- 20210216:【📖Literary】「愛憎倍増安全ゾォン」をhtml表示用に整形
-- 20210216:【📖Literary】「far,from」をhtml表示用に整形
+- 20210217:【📖Literary】「snow_dAnce]」をhtml表示用に整形
+- 20210217:【📖Literary】「空耳ミミック」をhtml表示用に整形
+- 20210217:【📖Literary】「脱兎サイトを覗いてそれを撃て」をhtml表示用に整形
+- 20210217:【📖Literary】「川にとり残されて」をhtml表示用に整形
+- 20210217:【📖Literary】「こん-fuse」をhtml表示用に整形
 :::
