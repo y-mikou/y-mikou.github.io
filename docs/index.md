@@ -14,6 +14,7 @@ features:
 footer: Author みこう悠長
 ---
 ::: tip 最終更新
+- 20210228:【📖Literary】「distAnce外話_反射率0.72②」を投稿
 - 20210217:【📖Literary】「snow_dAnce」をhtml表示用に整形
 - 20210217:【📖Literary】「空耳ミミック」をhtml表示用に整形
 - 20210217:【📖Literary】「脱兎サイトを覗いてそれを撃て」をhtml表示用に整形

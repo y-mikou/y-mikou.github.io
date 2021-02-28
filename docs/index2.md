@@ -18,6 +18,7 @@ footer: Author みこう悠長
 ~~主にリグルくん。~~
 
 ::: tip 更新履歴
+- 20210228:【📖Literary】「[distAnce外話_反射率0.72②](/Literary/0119_distAnce外話_反射率0.72②.md "distAnce外話_反射率0.72②")」をhtml表示用に整形
 - 20210217:【📖Literary】「[snow_dAnce](/Literary/0057_snow_dAnce.md "snow_dAnce")」をhtml表示用に整形
 - 20210217:【📖Literary】「[空耳ミミック](/Literary/0056_空耳ミミック.md "空耳ミミック")」をhtml表示用に整形
 - 20210217:【📖Literary】「[脱兎サイトを覗いてそれを撃て](/Literary/0055_脱兎サイトを覗いてそれを撃て.md "脱兎サイトを覗いてそれを撃て")」をhtml表示用に整形
