@@ -19,10 +19,7 @@ footer: Author みこう悠長
 
 ::: tip 更新履歴
 
-<details>
-
 - 20210228:【📖Literary】「[distAnce外話_反射率0.72②](/Literary/0119_distAnce外話_反射率0.72②.md "distAnce外話_反射率0.72②")」を投稿
-
 - 20210303:【📖Literary】「[八紅一憂](/Literary/0047_八紅一憂.md "八紅一憂")」をhtml表示用に整形
 - 20210303:【📖Literary】「[期日遅延に対する、バレンタインデー強制執行のこと](/Literary/0048_期日遅延に対する、バレンタインデー強制執行のこと.md "期日遅延に対する、バレンタインデー強制執行のこと")」をhtml表示用に整形
 - 20210303:【📖Literary】「[愛を得たえた二人がひにんする話](/Literary/0049_愛を得たえた二人がひにんする話.md "愛を得たえた二人がひにんする話")」をhtml表示用に整形
@@ -32,6 +29,7 @@ footer: Author みこう悠長
 - 20210303:【📖Literary】「[川にとり残されて](/Literary/0054_川にとり残されて.md "川にとり残されて")」のhtml整形が不完全だったので、再実施
 - 20210303:【📖Literary】いくつかの作品でdetailsの閉じタグが不足していたため修正(コンテンツに関係無)
 
+<details>
 <summary>もっと過去の</summary>
 
 - 20210228:【📖Literary】「[distAnce外話_反射率0.72②](/Literary/0119_distAnce外話_反射率0.72②.md "distAnce外話_反射率0.72②")」を投稿
