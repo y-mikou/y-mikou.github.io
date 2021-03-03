@@ -23,7 +23,7 @@ sed -i -z 's/<div class=\"afterword\">/\n<\/br>\n<\/br>\n<\/br>\n\n---\n\n\#\# �
 sed -i -z 's/【\([0-9]\)/\n【\1/g' $destFile                                                    #コメントを一人毎に空行挿入する
 sed -i -z 's/<\/div>\n\+<div class=\"comments\">/<\/details>\n<details open>\n<summary>コメント<\/summary>\n<details>\n<summary>夜伽現存当時のコメント<\/summary>\n/g' $destFile
                                                                                                 #コメント欄の整形
-sed -i -z 's/\(<\/div>\)*\n*---\(<\/br>\)*\n::: tip おてがみちょーだいっ\s*\(<\/br>\)*\nコメントなど貰えるとと喜びます\(<\/br>\)*\n>\sコメントは承認されるまで反映されません\n<staticcomments\/>\n:::/<\/details>\n\n---\n\n::: tip おてがみちょーだいっ\n\nコメントなど貰えるとと喜びます<\/br>\n\n> コメントは承認されるまで反映されません\n\n<staticcomments\/>\n\n:::/g' $destFile
+sed -i -z 's/\(<\/div>\)*\n*---\(<\/br>\)*\n::: tip おてがみちょーだいっ\s*\(<\/br>\)*\nコメントなど貰えるとと喜びます\(<\/br>\)*\n>\sコメントは承認されるまで反映されません\n<staticcomments\/>\n:::/<\/details>\n<\/details>\n\n---\n\n::: tip おてがみちょーだいっ\n\nコメントなど貰えるとと喜びます<\/br>\n\n> コメントは承認されるまで反映されません\n\n<staticcomments\/>\n\n:::/g' $destFile
                                                                                                 #作品末尾の整形修正
 sed -i -z 's/-\{4,\}/\n/g' $destFile                                                            #-4つを超える反復は<hr>ではないとみなし削除
 sed -i -z 's/\([^\n]\)\n---\n/\1\n\n---\n/g' $destFile                                          #---の前後に改行を調整
