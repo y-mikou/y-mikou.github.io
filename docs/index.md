@@ -18,11 +18,8 @@ footer: Author みこう悠長
 ::: tip 最終更新
 
 - 20210228:【📖Literary】「distAnce外話_反射率0.72②」を投稿
-- 20210303:【📖Literary】「八紅一憂」をhtml表示用に整形
-- 20210303:【📖Literary】「期日遅延に対する、バレンタインデー強制執行のこと」をhtml表示用に整形
-- 20210303:【📖Literary】「愛を得たえた二人がひにんする話」をhtml表示用に整形
-- 20210303:【📖Literary】「LOnely_sparrow_sings_her_REgret_in_a_LEY_in_N.Y.」を html表示用に整形
-- 20210303:【📖Literary】「Tris-passion-ARM」をhtml表示用に整形
-- 20210303:【📖Literary】「He_Hugged_Bug_on_Bed.」をhtml表示用に整形
-- 20210303:【📖Literary】「川にとり残されて」のhtml整形が不完全だったので、再実施
-- 20210303:【📖Literary】いくつかの作品でdetailsの閉じタグが不足していたため修正(コンテンツに関係無)
+- 20210306:【📖Literary】「2＋2＞4」をhtml表示用に整形
+- 20210306:【📖Literary】「非交叉線分の恣意的連結に因る文脈間欠性の擦消」をhtml表示用に整形
+- 20210306:【📖Literary】「ER東方～てゐがオナニーするだけの話～」をhtml表示用に整形
+- 20210306:【📖Literary】「霊夢と魔理沙がいちゃいちゃするだけの話」をhtml表示用に整形
+- 20210306:【📖Literary】「茸(くさびら)」をhtml表示用に整形
