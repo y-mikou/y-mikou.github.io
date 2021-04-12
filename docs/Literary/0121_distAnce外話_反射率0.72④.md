@@ -1,5 +1,5 @@
 ---
-title: distAnce外話_反射率0.72③
+title: distAnce外話_反射率0.72④
 sidebar: auto
 ---
 <div class="info">
