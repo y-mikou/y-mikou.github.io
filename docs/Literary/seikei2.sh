@@ -8,10 +8,10 @@ touch $destFile                                                                 
 cp $tgtFile $destFile
 
 #sed       's/｜\([^｜]\+\)《\([^《]\+\)》/<ruby>\1<rt>\2<\/rt><\/ruby>/g' $destFile
-perl -pi  -e 's/｜([^｜]+)《([^《]+)》/<ruby>$1<rt>$2<\/rt><\/ruby>/'    $destFile
+perl -pi  -e 's/｜([^｜《》]+)《([^｜《》]+)》/<ruby>$1<rt>$2<\/rt><\/ruby>/'    $destFile
 
 #sed -i -z 's/《《\([^《]\+\)》》/<span class="emphasis">\1<\/span>/g'     $destFile
-perl -pi  -e 's/《《([^《]+)》》/<span class="emphasis">$1<\/span>/'    $destFile
+perl -pi  -e 's/《《([^《》]+)》》/<span class="emphasis">$1<\/span>/'    $destFile
 
 #sed -i -z 's/　/\&emsp;/g'                                                $destFile
 perl -pi  -e 's/　/&emsp;/'    $destFile

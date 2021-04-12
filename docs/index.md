@@ -17,6 +17,7 @@ footer: Author みこう悠長
 
 ::: tip 最終更新
 
+- 20210413:【📖Literary】「distAnce外話_反射率0.72④」を投稿
 - 20210330:【📖Literary】「distAnce外話_反射率0.72③」を投稿
 - 20210228:【📖Literary】「distAnce外話_反射率0.72②」を投稿
 - 20210306:【📖Literary】「2＋2＞4」をhtml表示用に整形
