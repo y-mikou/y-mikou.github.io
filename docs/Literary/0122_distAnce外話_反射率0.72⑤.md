@@ -930,7 +930,7 @@ distAnce外話_反射率0.72⑤</br>
 <br>
 <br>
 
-## Albedo0.72
+## □Albedo0.72
 
 ##### The earth lay white over the nightmare sky.
 
