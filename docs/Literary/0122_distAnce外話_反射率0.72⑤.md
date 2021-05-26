@@ -1120,7 +1120,7 @@ distAnce外話_反射率0.72⑤</br>
 <div class="prtlyV">
 君が、この世界の一部では、ないために。<br>
 </div>
-<div class="right">
+<div class="fin">
 -fin-
 </div>
 </div>
