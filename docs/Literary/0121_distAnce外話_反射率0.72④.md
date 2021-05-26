@@ -506,7 +506,7 @@ distAnce外話_反射率0.72④</br>
 <br>
 <br>
 
-## □堕落した者達
+## ♥堕落した者達
 
 ##### A proof of monogamy of entanglement.
 
