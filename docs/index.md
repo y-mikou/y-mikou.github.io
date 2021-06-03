@@ -17,6 +17,8 @@ footer: Author みこう悠長
 
 ::: tip 最終更新
 
+- 20210527:【📖Literary】東方蛍光祭4延期に伴い「distAnce外話_反射率0.72」の物理本頒布をFantiaでの郵送頒布へ変更
+- 20210527:【📖Literary】「distAnce外話_反射率0.72①～⑤」を製本版に合わせて調整更新
 - 20210510:【📖Literary】「distAnce外話_反射率0.72⑤」を投稿
 - 20210413:【📖Literary】「distAnce外話_反射率0.72④」を投稿
 - 20210330:【📖Literary】「distAnce外話_反射率0.72③」を投稿
