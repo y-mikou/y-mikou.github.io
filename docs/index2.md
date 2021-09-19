@@ -19,6 +19,7 @@ footer: Author みこう悠長
 
 ::: tip 更新履歴
 
+- 20210919:【📖Literary】「[螺旋聖廟](/Literary/0124_常海国風土記.md "常海国風土記")」を投稿
 - 20210919:【📖Literary】「[螺旋聖廟](/Literary/0123_螺旋聖廟.md "螺旋聖廟")」を投稿
 
 <details>
