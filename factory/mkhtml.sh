@@ -59,7 +59,7 @@ for file in ${list}; do
   ext=${filename##*.}
   if [[ $ext == "md" ]]; then
     body=${filename%%.*}
-    `pandoc ${inputPath}${body}.md -o ${outputPath}${body}.html`
+    `pandoc ${inputPath}${body}.md --template=templateMd2Html.html -o ${outputPath}${body}.html`
     echo "✓ ${inputPath}${body}.md を ${outputPath}${body}.html として変換・出力しました。"
     cnt=$((cnt+1))
   fi

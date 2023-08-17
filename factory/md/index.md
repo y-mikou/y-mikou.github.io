@@ -1,3 +1,9 @@
+---
+title: いりぐち
+author: みこう悠長
+data: 2023/08/17
+css: css/github_ppoiyatu.css
+---
 # 受信不能電波局-MonologueStation-
 
 - [みこう悠長](https://twitter.com/y_mikou)のSS避難所です。
