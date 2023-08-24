@@ -1,14 +1,43 @@
 body {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
-  margin: 0;
+  margin: 0 auto;
   color: #24292f;
   background-color: #ffffff;
   font-family: -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
   font-size: 16px;
   line-height: 1.5;
   word-wrap: break-word;
+}    
+@media (orientation: landscape) and (min-height: 500px){
+  body {
+    width: 60%;
+  }    
 }
+@media (orientation: portrait) {
+  body {
+    width: 100%;
+  }
+}
+@media (orientation: landscape) and (max-height: 500px) {
+  body {
+    width: 100%;
+  }
+}
+
+
+
+@media (orientation: landscape){
+  div.table_portrait {
+      display: none;
+  }    
+}
+@media (orientation: portrait){
+  div.table_landscape {
+      display: none;
+  }    
+}
+
 
 body .octicon {
   display: inline-block;
@@ -195,7 +224,7 @@ body table {
   border-collapse: collapse;
   display: block;
   width: max-content;
-  max-width: 100%;
+  /*max-width: 100%;*/
   overflow: auto;
 }
 
