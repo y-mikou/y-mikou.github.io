@@ -1,7 +1,7 @@
 ---
 title: いりぐち
 author: みこう悠長
-data: 2023/08/17
+data: 2025/02/23
 css: css/github_ppoiyatu.css
 ---
 # 受信不能電波局-MonologueStation-
